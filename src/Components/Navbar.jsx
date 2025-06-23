@@ -28,7 +28,7 @@ const Navbar =() => {
                 aria-label="Instagram">
                     <FaInstagram/>
                 </a>
-                <a href="https://www.facebook.com/yogen.shrestha"
+                <a href="https://www.facebook.com/yogen.shrestha.2025"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="Facebook">
