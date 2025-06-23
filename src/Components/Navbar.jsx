@@ -10,25 +10,25 @@ const Navbar =() => {
                 </a>
             </div>
             <div className="m-8 flex item-center justify-center gap-4 text-2xl">
-                <a href="# my link will come here"
+                <a href="https://www.linkedin.com/in/yogenshrestha/"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="LinkedIn">
                     <FaLinkedin/>
                 </a>
-                <a href="# my link will come here"
+                <a href="https://github.com/YogenStha?tab=overview&from=2025-06-01&to=2025-06-12"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="GitHub">
                     <FaGithub/>
                 </a>
-                <a href="# my link will come here"
+                <a href="https://www.instagram.com/shrestha_yogen22/"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="Instagram">
                     <FaInstagram/>
                 </a>
-                <a href="# my link will come here"
+                <a href="https://www.facebook.com/yogen.shrestha"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="Facebook">
